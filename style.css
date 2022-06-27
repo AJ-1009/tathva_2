@@ -1,0 +1,769 @@
+html {
+    font-size: 105%;
+}
+* {
+    padding: 0%;
+    margin: 0%;
+}
+body {
+    font-family: 'Lato', sans-serif;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    border: .4rem solid #39ff14;
+    border-radius: 2rem;
+    padding: 0rem 1.2rem;
+    transition: 1.5s;
+    color: white;
+    background-color: black;
+}
+#logo_1 {
+    width: 4rem;
+    border: .5px solid red;
+}
+.part1 {
+    border: .5px solid red;
+    position: absolute;
+    display: flex;
+    top: 4.1rem;
+    left: 10rem;
+}
+#name_1 {
+    width: 11.6rem;
+    height: 3rem;
+    margin-top: .5rem;
+    margin-left: .978rem;
+    font-size: 2.2rem;
+    border: .5px solid red;
+    line-height: 3rem;
+    text-align: center;
+}
+
+.section_1 {
+    position: absolute;
+    font-size: 1.8rem;
+    line-height: 2.43rem;
+    justify-content: center;
+    border: .5px solid red;
+    color: black;
+}
+
+#about {
+    color: white;
+    font-size: 1.8rem;
+    line-height: 2.43rem;
+    border: .5px solid red;
+}
+
+#about_2 {
+    position: absolute;
+    top: 146.4rem;
+    background-color: black;
+    left: 10rem;
+    padding: 1.2rem 2rem;
+    color: white;
+     border: .5px solid red;
+}
+
+#contact_1 {
+    position: absolute;
+    top: 3.6rem;
+    left: 99.3rem;
+    padding: 1.2rem 2rem;
+    background-color: black;
+    color: white;
+     border: .5px solid red;
+}
+
+#divli {
+    color: white;
+    font-size: 1.8rem;
+    line-height: 2.43rem;
+     border: .5px solid red;
+}
+
+#work_1 {
+    left: 82.4rem;
+    width: 5.3rem;
+    top: 4.9rem;
+     border: .5px solid red;
+    height: 2.4rem;
+}
+
+#work_2 {
+    position: absolute;
+    left: 25.45rem;
+    top: 42.4rem;
+    font-size: 1.8rem;
+    line-height: 2.43rem;
+     border: .5px solid red;
+
+}
+
+#about_1 {
+    top: 4.9rem;
+    left: 90.9rem;
+    width: 5.3rem;
+    height: 2.4rem;
+     border: .5px solid red;
+}
+
+#contact_2 {
+    position: absolute;
+    top: 41.2rem;
+    background-color: #2660FF;
+    left: 10rem;
+    padding: 1.2rem 2rem;
+    color: white;
+     border: .5px solid red;
+}
+
+#con {
+    font-size: 1.8rem;
+    line-height: 2.43rem;
+     border: .5px solid red;
+}
+
+#get {
+    position: absolute;
+    top: 16.6rem;
+    left: 10rem;
+    font-size: 7.2rem;
+    line-height: 7.6rem;
+    width: 43.9rem;
+    height: 15.2rem;
+     border: .5px solid red;
+}
+
+#web {
+    position: absolute;
+    top: 35rem;
+    left: 10rem;
+    font-size: 2.2rem;
+    width: 27.1rem;
+    height: 3rem;
+    color: #81889E;
+     border: .5px solid red;
+    line-height: 3rem;
+}
+
+#photo_1 {
+    position: absolute;
+    top: 54.2rem;
+    left: 10rem;
+    font-size: 2.2rem;
+     border: .5px solid red;
+}
+
+#first {
+    width: 100.3rem;
+     border: .5px solid red;
+}
+
+.bold {
+    position: absolute;
+    left: 81.1rem;
+    font-size: 8rem;
+    line-height: 7.3rem;
+     border: .5px solid red;
+    height: 7.3rem;
+}
+
+.normal {
+    position: absolute;
+    height: 1.6rem;
+     border: .5px solid red;
+    font-size: 1.8rem;
+    left: 81.1rem;
+    line-height: 1.6rem;
+}
+
+#num1 {
+    top: 123.5rem;
+    width: 13.3rem;
+     border: .5px solid red;
+}
+
+#num2 {
+    top: 138rem;
+    width: 10.1rem;
+     border: .5px solid red;
+}
+
+#sen1 {
+    top: 132.4rem;
+     border: .5px solid red;
+    width: 19.2rem;
+}
+
+#sen2 {
+    top: 146.9rem;
+    width: 6.8rem;
+     border: .5px solid red;
+}
+
+#lorem1 {
+    position: absolute;
+    top: 120.6rem;
+    left: 10rem;
+    width: 57.3rem;
+    height: 23.4rem;
+    font-size: 2.6rem;
+    line-height: 3.9rem;
+     border: .5px solid red;
+}
+
+#work {
+    position: absolute;
+    top: 166.4rem;
+    left: 10.0rem;
+    font-size: 7.2rem;
+    line-height: 7.6rem;
+     border: .5px solid red;
+}
+
+#circle {
+    position: absolute;
+    top: 167.9rem;
+    left: 35.0rem;
+    border: .5px solid red;
+    width: 5rem;
+}
+
+#arrow {
+    position: absolute;
+    top: 169.455rem;
+    left: 36.159rem;
+     border: .5px solid red;
+     width: 2.9rem;
+}
+
+#third {
+    position: absolute;
+    width: 49.7rem;
+    top: 180.0rem;
+    left: 54.6rem;
+     border: .5px solid red;
+}
+
+#sec {
+    position: absolute;
+    top: 180.0rem;
+    left: 16.0rem;
+    width: 35rem;
+     border: .5px solid red;
+}
+
+#forth {
+    position: absolute;
+    top: 237.5rem;
+    width: 49.7rem;
+    left: 16.0rem;
+     border: .5px solid red;
+}
+
+#fifth {
+    position: absolute;
+    top: 232.4rem;
+    left: 69.3rem;
+    width: 35rem;
+    padding-top: 5.1rem;
+     border: .5px solid red;
+}
+
+#we {
+    position: absolute;
+    font-size: 2.4rem;
+    top: 229.4rem;
+    left: 16.0rem;
+    width: 8.9rem;
+    height: 2.5rem;
+     border: .5px solid red;
+}
+
+#wellness {
+    position: absolute;
+    font-size: 2.4rem;
+    line-height: 2.5rem;
+    top: 229.4rem;
+    left: 54.6rem;
+     border: .5px solid red;
+}
+
+#medora {
+    position: absolute;
+    font-size: 2.4rem;
+    line-height: 2.5rem;
+    top: 286.9rem;
+    left: 16.0rem;
+     border: .5px solid red;
+}
+#carnival {
+    position: absolute;
+    font-size: 2.4rem;
+    line-height: 2.5rem;
+    top: 286.9rem;
+    left: 69.3rem;
+     border: .5px solid red;
+}
+#part8 {
+    position: absolute;
+    top: 304.4rem;
+    width: 120.3rem;
+    height: 90.0rem;
+    background-color: black;
+    /* border: 2rem solid red; */
+    color: white;
+     border: .5px solid red;
+}
+#review {
+    position: absolute;
+    top: 8.0rem;
+    left: 10.0rem;
+    font-size: 7.2rem;
+    width: 43.9rem;
+    height: 7.6rem;
+    line-height: 7.6rem;
+     border: .5px solid red;
+}
+#dp_1 {
+    position: absolute;
+    top: 21.2rem;
+    left: 23.65rem;
+    width: 5.7rem;
+     border: .5px solid red;
+}
+#dp_2 {
+    position: absolute;
+     border: .5px solid red;
+    top: 52.8rem;
+    left: 23.65rem;
+    width: 5.7rem;
+}
+#name1 {
+    position: absolute;
+    top: 21.4rem;
+    left: 30.95rem;
+    font-size: 2.0rem;
+     border: .5px solid red;
+}
+#rating1 {
+    position: absolute;
+    filter: invert(100%);
+    left: 30.95rem;
+    top: 24.8rem;
+    width: 1.9rem;
+    display: flex;
+     border: .5px solid red;
+}
+#rating2 {
+    position: absolute;
+    filter: invert(100%);
+    left: 30.95rem;
+    top: 56.4rem;
+    width: 1.9rem;
+    display: flex;
+     border: .5px solid red;
+}
+#name2 {
+    position: absolute;
+    top: 53.0rem;
+    left: 30.95rem;
+    font-size: 2.0rem;
+     border: .5px solid red;
+}
+#comment1 {
+    position: absolute;
+    top: 29.2rem;
+    left: 23.65rem;
+    font-size: 1.8rem;
+    font-weight: 400;
+    width: 73.0rem;
+    height: 21.0rem;
+    line-height: 3.0rem;
+    color: #81889E;
+     border: .5px solid red;
+}
+#comment2 {
+    position: absolute;
+    top: 60.8rem;
+    left: 23.65rem;
+    font-size: 1.8rem;
+    font-weight: 400;
+    width: 73.0rem;
+    height: 21.0rem;
+    line-height: 3.0rem;
+    color: #81889E;
+     border: .5px solid red;
+}
+#faqs {
+    position: absolute;
+    top: 409.2rem;
+    left: 10.0rem;
+    width: 43.9rem;
+    height: 7.6rem;
+    font-size: 7.2rem;
+    font-weight: 400;
+    line-height: 7.6rem;
+     border: .5px solid red;
+}
+.ques {
+    position: absolute;
+    left: 10.0rem;
+    width: 67.3rem;
+    height: 3.9rem;
+    font-size: 2.6rem;
+    font-weight: 400;
+    line-height: 3.9rem;
+     border: .5px solid red;
+}
+.ans {
+    position: absolute;
+    left: 10.0rem;
+    height: 15.0rem;
+    width: 64.8rem;
+    font-size: 1.8rem;
+    font-weight: 400;
+    line-height: 3.0rem;
+     border: .5px solid red;
+}
+#ques1 {
+    top: 422.4rem;
+}
+#ques2 {
+    top: 449.7rem;
+}
+#ans1 {
+    top: 429.1rem;
+    color: #81889E;
+}
+#ans2 {
+    top: 456.4rem;
+    color: #81889E;
+}
+#part10 {
+    position: absolute;
+    top: 486.4rem;
+    height: 35.7rem;
+    width: 120.3rem;
+    background-color: #F1F4FA;
+    border: .5px solid red;
+}
+#logo2 {
+    position: absolute;
+    top: 8.0rem;
+    width: 4rem;
+     border: .5px solid red;
+    left: 10.0rem;
+}
+#name_2 {
+    position: absolute;
+    top: 8.5rem;
+    left: 14.978rem;
+    font-weight: 500;
+    font-size: 2.2rem;
+    line-height: 3.0rem;
+}
+#about_3 {
+    text-decoration: none;
+    color: #81889E;
+    position: absolute;
+     border: .5px solid red;
+    font-size: 1.6rem;
+    top: 8.0rem;
+    left: 76.1rem;
+    /* border: 2px solid red; */
+}
+
+#works_3 {
+    text-decoration: none;
+    color: #81889E;
+    position: absolute;
+     border: .5px solid red;
+    top: 12.2rem;
+    font-size: 1.6rem;
+    left: 76.1rem;
+    /* border: 2px solid red; */
+}
+
+#contact_3 {
+    text-decoration: none;
+    color: #81889E;
+    position: absolute;
+    top: 16.4rem;
+     border: .5px solid red;
+    /* border: 2px solid red; */
+    font-size: 1.6rem;
+    left: 76.1rem;
+}
+
+.logo {
+    position: absolute;
+    left: 89.667rem;
+     border: .5px solid red;
+    /* border: 1px solid red; */
+}
+
+.social {
+    position: absolute;
+    left: 92.7rem;
+     border: .5px solid red;
+    /* border: 1px solid red; */
+    color: #81889E;
+    font-size: 1.6rem;
+}
+
+#insta {
+    top: 8.267rem;
+}
+
+#face {
+    top: 12.47rem;
+}
+
+#twitt {
+    top: 16.833rem;
+}
+
+#instagram {
+    top: 8.0rem;
+}
+
+#facebook {
+    top: 12.2rem;
+}
+
+#twitter {
+    top: 16.4rem;
+}
+
+#privacy {
+    top: 30.2rem;
+    left: 86.3rem;
+    font-size: 1.4rem;
+    font-weight: 400;
+    border: .5px ;
+    border: .5px solid red;
+}
+
+#terms {
+    top: 30.2rem;
+    left: 97.5rem;
+    font-size: 1.4rem;
+    font-weight: 400;
+     border: .5px solid red;
+}
+
+#rights {
+    position: absolute;
+    top: 30.25rem;
+    left: 10.0rem;
+    color: #81889E;
+    /* border: 1px solid red; */
+     border: .5px solid red;
+    font-size: 1.3rem;
+    font-weight: 500;
+}
+
+@media only screen and (max-width:698px){
+    html {
+        font-size: 30%;
+    }
+
+    .section_1 {
+        font-size: 2rem;
+    }
+
+    #work_1 {
+        top: 4.9rem;
+        font-size: 2rem;
+        left: 77rem;
+    }
+
+    #about_1 {
+        top: 10rem;
+        font-size: 2rem;
+        left: 77rem;
+    }
+
+    #contact_1 {
+        left: 74.5rem;
+        font-size: 2rem;
+        top: 15rem;
+    }
+    .part1 {
+        left: 6rem;
+    }
+
+    #get {
+        left: 6rem;
+    }
+
+    #web {
+        left: 6rem;
+    }
+
+    #first {
+        left: 3rem;
+        width: 80rem;
+    }
+    
+    #lorem1 {
+        left: 10rem;
+        top: 110rem;
+    }
+    #num1{
+        top: 140rem;
+        left: 10rem;
+    }
+    #sen1{
+        top: 150rem;
+        left: 10rem;
+    }
+    #num2{
+        top: 140rem;
+        left: 72rem ;
+    }
+    #sen2{
+        top: 150rem;
+        left: 72rem;
+    }
+    #about_2{
+        width: 8rem;
+        top: 120rem;
+        left: 73rem ;
+    }
+    #work {
+        left: 6rem;
+    }
+
+    #circle {
+        left: 31rem;
+        top: 165rem;
+    }
+
+    #arrow {
+        top: 166rem;
+        left: 32rem;
+    }
+    #sec {
+        left: 5.4rem;
+        width: 30rem;
+    }
+    #we{
+        left: 5.4rem;
+        top: 222rem;
+    }
+    #third {
+        left: 41rem;
+         width: 44.7rem;
+    }
+    #wellness{
+        top: 224rem;
+        left: 41rem;
+    }
+    #forth {
+        left: 5.4rem;
+        width: 44.7rem;
+    }
+    #medora{
+        left: 5.4rem;
+        top: 282rem;
+    }
+    #fifth {
+        left: 55.7rem;
+        width: 30rem;
+    }
+    #carnival{
+        left: 55.7rem;
+        top: 282rem;
+    }
+    #part8{
+
+        width: 89rem;
+    }
+    #review {
+        left: 4rem;
+    }
+
+    #dp_1 {
+        left: 9.65rem;
+    }
+
+    #dp_2 {
+        left: 9.65rem;
+    }
+
+    #name1 {
+        left: 16.95rem;
+    }
+
+    #name2 {
+        left: 16.95rem;
+    }
+
+    #rating1 {
+        left: 16.95rem;
+    }
+    .star{
+        width: 2.4rem;
+    }
+    #rating2 {
+        left: 16.95rem;
+    }
+
+    #comment1 {
+        left: 9.65rem;
+    }
+
+    #comment2 {
+        left: 9.65rem;
+    }
+
+    #faqs {
+        left: 6rem;
+    }
+
+    .ques {
+        left: 6rem;
+    }
+
+    .ans {
+        left: 6rem;
+    }
+    #part10{
+        width: 89rem;
+    }
+    #logo2 {
+        left: 6rem;
+    }
+
+    #name_2 {
+        left: 10.978rem;
+    }
+
+    .logo {
+        left: 73.667rem;
+        width: 1rem;
+    }
+
+    .social {
+        left: 76rem;
+        width: .5rem;
+    }
+    #terms {
+        top: 30.25rem;
+        left: 37.8rem;
+        font-size: 1.6rem;
+        width: 15rem;
+    }
+
+    #privacy {
+        font-size: 1.6rem;
+        width: 10rem;
+        top: 30.25rem;
+        left: 60.8rem;
+    }
+}
